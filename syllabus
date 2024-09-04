@@ -1,2 +1,6 @@
 CSE-4125: Introduction to Machine Learning
 ------------------------------------------
+1. Supervised and Unsupervised Learning, issues in machine learning: parametric and non-parametric models, curse of dimensionality, over-fitting, and model selection.
+2. Linear Models for Regression: Maximum Likelihood and least squares, regularized least squares, Bias variance decomposition, Bayesian linear regression. 
+3. Linear Models for classification: Fisher's linear discriminant, probabilistic generative models -parametric (maximum likelihood and Bayesian) and non-parametric density estimation.
+4. Probabilistic discriminative models: logistic regression, log-linear models, Kernel methods and Sparse Kernel Machines. Clustering, mixture models and Expectation Maximization algorithm. Sequential data and Markov models.
